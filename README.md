@@ -5,5 +5,5 @@ A submission in four parts:
 
 1) README.md: this readme file  
 2) Project.txt: the code book  
-3) run_analysis.R: the R script that turns data downloaded from a ZIP file a tidy and somewhat processed table  
-4) output.txt: the analyzed data itself
+3) run_analysis.R: the R script that turns a downloaded ZIP file into a tidy and somewhat processed table  
+4) output.txt: the tidy and processed data itself
