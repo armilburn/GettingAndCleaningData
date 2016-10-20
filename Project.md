@@ -13,8 +13,12 @@ The dataset can be downloaded from https://d396qusza40orc.cloudfront.net/getdata
 	contains the activity code for a row of test data
 <li> test/x_test.txt</li>
 	contains the rows of test data
-<li> train/subject_train.txt  
-<li> train/y_train.txt
-<li> train/x_train.txt  
-<li> activity_labels.txt: contains the description associated with an activity code
+<li> train/subject_train.txt</li>
+	contains the subject (or person) number for a row of training data
+<li> train/y_train.txt</li>
+	contains the activity code for a row of training data
+<li> train/x_train.txt</li>
+	contains the rows of trainig data
+<li> activity_labels.txt</li>
+	contains the description associated with an activity code
 </ol>
