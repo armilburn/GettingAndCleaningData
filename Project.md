@@ -8,11 +8,11 @@ The dataset can be downloaded from https://d396qusza40orc.cloudfront.net/getdata
 
 <ol>
 <li> test/subject_test.txt</li>
-	contains the subject (or person) number for a row of data
+	contains the subject (or person) number for a row of test data
 <li> test/y_test.txt</li>
-	contains the activity code for a row of data
+	contains the activity code for a row of test data
 <li> test/x_test.txt</li>
-	contains the rows of data
+	contains the rows of test data
 <li> train/subject_train.txt  
 <li> train/y_train.txt
 <li> train/x_train.txt  
